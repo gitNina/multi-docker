@@ -16,7 +16,7 @@
   {
    "name": "worker",
    "image": "ejjj/multi-worker",
-   "hostname": "worker"
+   "hostname": "worker",
    "essential": false
   },
   {
@@ -31,7 +31,6 @@
      }
     ],
    "links": ["client", "server"]
-
   }
  ]
 }
