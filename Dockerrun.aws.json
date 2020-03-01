@@ -8,7 +8,7 @@
    "essential": false
   },
   {
-   "name": "server"
+   "name": "server",
    "image": "ejjj/multi-server",
    "hostname": "api", 
    "essential": false
